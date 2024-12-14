@@ -1,25 +1,23 @@
 <h1>Berikut langkah-langkah dalam set up project:</h1>
 
 <h2>Set up Database:</h2>
-<ul>
-<li>Buka aplikasi XAMPP untuk menjalankan database</li>
-<li>Pada Bagian Actions, <code>start</code> Apache dan juga <code>start</code> MySQL</li>
-<li>untuk memastikan server database sudah berjalan, buka <a>http://localhost/phpmyadmin/</a> pada browser</li>
-<li>apabila terdapat database dengan nama <code>winnicode</code>, mohon untuk merename-nya atau menghapusnya terlebih dahulu agar tidak bentrok dengan DB yang saya buat.</li>
-</ul>
+
+- Buka aplikasi XAMPP untuk menjalankan database
+- Pada Bagian Actions, <code>start</code> Apache dan juga <code>start</code> MySQL
+- untuk memastikan server database sudah berjalan, buka http://localhost/phpmyadmin/ pada browser
+- apabila terdapat database dengan nama <code>winnicode</code>, mohon untuk merename-nya atau menghapusnya terlebih dahulu agar tidak bentrok dengan DB yang saya buat.
 
 <h2>Clone atau Unduh Zip Project</h2>
 <h3>clone</h3>
-<ul>
-<li>Buka terminal computer anda</li>
-<li>Arahkan ke folder tempat anda ingin menyimpan project</li>
-<li>Pada terminal jalankan perintah: <code>git clone <a>https://github.com/ghulammf/news-portal-app.git</a></code></li>
-</ul>
 
-<b>Unduh Zip</b>
+- Buka terminal computer anda
+- Arahkan ke folder tempat anda ingin menyimpan project
+- Pada terminal jalankan perintah: <code>git clone https://github.com/ghulammf/news-portal-app.git</code>
+
+<h3>Unduh Zip</h3>
 
 - buka link : https://github.com/ghulammf/news-portal-app.git
-- Click button <button style="background-color: green">code</button>, lalu unduh zip
+- Click button <button>code</button>, lalu unduh zip
 - setelah terunduh, extract atau unzip di direktori anda mengunduh project
 
 <h2>Set Up Backend Project</h2>
